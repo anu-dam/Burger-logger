@@ -1,0 +1,41 @@
+body {
+    background-image: url('../img/burger.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+    
+    }
+
+  #heading{
+      color: aliceblue;
+      margin-top: 20px;
+      font-size: 50px;
+  }
+
+  h2{
+      color: aliceblue;
+    }
+
+  #sub{
+    color: aliceblue;
+    text-decoration: underline;
+  }
+
+  #nam {
+      color: aliceblue;
+      font-size: 15px;
+  }
+
+  #nam1 {
+    color: aliceblue;
+    font-size: 40px;
+}
+
+.devour {
+    font-size: 20px;
+}
+
+.delete-burger{
+    font-size: 20px;
+}
