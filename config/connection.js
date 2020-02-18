@@ -14,7 +14,7 @@ else {
 <<<<<<< HEAD
     
 =======
-    database: "burgers_db"
+ 
 >>>>>>> 99e12416fe81bdaa8def0fb926021be674fc2d9e
   });
 };
