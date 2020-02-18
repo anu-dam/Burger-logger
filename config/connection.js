@@ -11,11 +11,7 @@ else {
     user: "root",
     password: "anu12358",
     database: "burgers_db"
-<<<<<<< HEAD
-    
-=======
- 
->>>>>>> 99e12416fe81bdaa8def0fb926021be674fc2d9e
+
   });
 };
 
