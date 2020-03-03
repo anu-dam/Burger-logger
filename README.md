@@ -2,4 +2,4 @@
 Create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). 
 
 
-![image] (buggerapp.png)
+![image1] (buggerapp.png)
