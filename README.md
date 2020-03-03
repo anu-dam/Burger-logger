@@ -19,4 +19,4 @@
 * MySQL
 * Handlebars and a homemade ORM
 
-Deployed and Heroku and [link](https://burgereater-assignment.herokuapp.com). 
+Deployed in Heroku : [link](https://burgereater-assignment.herokuapp.com). 
