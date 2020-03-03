@@ -2,7 +2,7 @@
 
 # Burger-logger
 
-Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
+* Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
 
 * Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be devoured.
 
@@ -11,3 +11,10 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 * Your app will store every burger in a database, whether devoured or not.
 
 ![Image](buggerapp.png)
+
+## Technologies used
+
+* JavaScript
+* Node
+* MySQL
+* Handlebars and a homemade ORM
